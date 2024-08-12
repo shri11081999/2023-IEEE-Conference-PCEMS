@@ -61,7 +61,8 @@ Acquire the Soybean dataset and place it in the data/ directory.
 Feel free to make any changes in the project.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![soybean 1](https://github.com/user-attachments/assets/7d636b72-284e-4024-ae04-a2f3dd2a1e57)
+![soybean 2](https://github.com/user-attachments/assets/a88b7ae3-c200-471b-9759-c60ff7343b3a)
 
 
 ## Evaluation
