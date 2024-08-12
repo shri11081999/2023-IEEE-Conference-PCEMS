@@ -100,7 +100,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 
-We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their assistance in providing the dataset used in this research.
+We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their help with the dataset used in this research.
 
 
 ## Contact
