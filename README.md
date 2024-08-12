@@ -87,6 +87,9 @@ Feel free to make any changes in the project.
 **Date** : 2023
 
 **Location** : National Institute of Technology (VNIT), Nagpur
+
+**Link** : https://ieeexplore.ieee.org/document/10136030
+
 ## Future-Work
 
 * **Expand Dataset** : Collect and label more data to improve model generalization.
