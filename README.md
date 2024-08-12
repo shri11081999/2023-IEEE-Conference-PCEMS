@@ -14,13 +14,6 @@ This project presents a deep learning-based approach for the automatic detection
 
 * **High Accuracy**: Achieved a classification accuracy of 93.01% using the ResNet-V2 model.
 
-
-## Technology Used
-
-* Deep Learning Frameworks: TensorFlow, Keras
-
-* Programming Language: Python
-
 ## Dataset Prepration
 
 * Collected and labeled soybean leaf images affected by various diseases, including bacterial blight, frog eye leaf spot (FLS), and brown spot.
