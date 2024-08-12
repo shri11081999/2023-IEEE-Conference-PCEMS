@@ -4,7 +4,7 @@
 
 This project presents a deep learning-based approach for the automatic detection and classification of soybean leaf diseases. The research was conducted to assist farmers in Madhya Pradesh and Chhattisgarh, where soybean is a critical crop, in identifying diseases early to mitigate potential losses. The system leverages advanced image processing techniques and neural networks to classify common soybean diseases with high accuracy.
 
-***This is the first research paper to focus on the soybean disease dataset specific to Madhya Pradesh, making it a pioneering effort in applying deep learning to this region's agricultural challenges.***
+***TThis is the first research paper to utilize a soybean disease dataset specifically from Madhya Pradesh, marking it as a pioneering effort in applying deep learning to address the agricultural challenges in this region. Additionally, this dataset is the first of its kind to be made publicly available on the internet, created by us.***
 
 ## Key Features
 
