@@ -1,4 +1,3 @@
-
 # Classification and Recognition of Soybean Leaf Diseases Using Deep Learning
 
 ## Overview
@@ -6,9 +5,6 @@
 This project presents a deep learning-based approach for the automatic detection and classification of soybean leaf diseases. The research was conducted to assist farmers in Madhya Pradesh and Chhattisgarh, where soybean is a critical crop, in identifying diseases early to mitigate potential losses. The system leverages advanced image processing techniques and neural networks to classify common soybean diseases with high accuracy.
 
 ***This is the first research paper to focus on the soybean disease dataset specific to Madhya Pradesh, making it a pioneering effort in applying deep learning to this region's agricultural challenges.***
-
-
-
 
 ## Key Features
 
@@ -63,11 +59,6 @@ Acquire the Soybean dataset and place it in the data/ directory.
 ## Contributing
 
 Feel free to make any changes in the project.
-## Demo
-
-Insert gif or link to demo
-
-
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
@@ -87,23 +78,6 @@ Insert gif or link to demo
 
 * **Data Augmentation**: Significantly improved the performance of all models.
 
-## Contact
-
-For any questions or issues, please contact dixitshriniket976@gmail.com.
-
-
-## Acknowledgements
-
-We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their assistance in providing the dataset used in this research.
-
-
-## Future-Work
-
-* **Expand Dataset** : Collect and label more data to improve model generalization.
-
-* **Cross-Crop Application** : Adapt the model to detect diseases in other crops such as rice and maize.
-
-* **Explainability**: Incorporate techniques to explain model predictions to increase trust in AI-driven diagnosis.
 ## Conference Presentation
 
 **Conference** : 2nd International Conference on the Paradigm Shifts in Communication, Embedded Systems, Machine Learning, and Signal Processing (PCEMS 2023)
@@ -113,3 +87,22 @@ We would like to express our gratitude to the participants of the PCEMS 2023 con
 **Date** : 2023
 
 **Location** : National Institute of Technology (VNIT), Nagpur
+## Future-Work
+
+* **Expand Dataset** : Collect and label more data to improve model generalization.
+
+* **Cross-Crop Application** : Adapt the model to detect diseases in other crops such as rice and maize.
+
+* **Explainability**: Incorporate techniques to explain model predictions to increase trust in AI-driven diagnosis.
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgements
+
+We would like to express our gratitude to the participants of the PCEMS 2023 conference for their valuable feedback, and to the School of Agricultural Sciences for their assistance in providing the dataset used in this research.
+
+
+## Contact
+
+For any questions or issues, please contact dixitshriniket976@gmail.com.
